@@ -1,0 +1,665 @@
+Year,Types of Disease,Cases
+2000,Cholera,124
+2000,Typhoid,765
+2000,Dysentry,447
+2000,Food poisoning,8129
+2000,Tuberculosis,15057
+2000,Leprosy,217
+2000,Pertusis,0
+2000,Whooping cough,42
+2000,Tetanus Neonatorum,0
+2000,Other Tetanus,40
+2000,Viral encephalitis,90
+2000,Measles,6187
+2000,Dengue fever,6715
+2000,Dengue  haemorrhagic fever,403
+2000,Hepatitis A,0
+2000,Hepatitis B,0
+2000,Hepatitis C,0
+2000,Viral hepatitis (all types),4066
+2000,Rabies,0
+2000,Malaria,12705
+2000,Syphillis,1705
+2000,Gonococol infection,1336
+2000,Gonorrhoea,0
+2000,Chancroid,7
+2000,H.I.V,4958
+2000,A.I.D.S,1168
+2000,Leptospirosis,0
+2000,Hand Foot Mouth Diseases (HFMD),0
+2000,Typhus,38
+2000,Diphtheria,1
+2001,Cholera,557
+2001,Typhoid,695
+2001,Dysentry,348
+2001,Food poisoning,7137
+2001,Tuberculosis,14830
+2001,Leprosy,195
+2001,Pertusis,0
+2001,Whooping cough,26
+2001,Tetanus Neonatorum,0
+2001,Other Tetanus,8
+2001,Viral encephalitis,83
+2001,Measles,2207
+2001,Dengue fever,15446
+2001,Dengue  haemorrhagic fever,922
+2001,Hepatitis A,0
+2001,Hepatitis B,0
+2001,Hepatitis C,0
+2001,Viral hepatitis (all types),4037
+2001,Rabies,0
+2001,Malaria,12780
+2001,Syphillis,1435
+2001,Gonococol infection,1294
+2001,Gonorrhoea,0
+2001,Chancroid,6
+2001,H.I.V,5938
+2001,A.I.D.S,1302
+2001,Leptospirosis,0
+2001,Hand Foot Mouth Diseases (HFMD),11
+2001,Typhus,86
+2001,Diphtheria,4
+2002,Cholera,365
+2002,Typhoid,853
+2002,Dysentry,292
+2002,Food poisoning,7023
+2002,Tuberculosis,14372
+2002,Leprosy,179
+2002,Pertusis,0
+2002,Whooping cough,27
+2002,Tetanus Neonatorum,0
+2002,Other Tetanus,35
+2002,Viral encephalitis,37
+2002,Measles,899
+2002,Dengue fever,15493
+2002,Dengue  haemorrhagic fever,1960
+2002,Hepatitis A,0
+2002,Hepatitis B,0
+2002,Hepatitis C,0
+2002,Viral hepatitis (all types),3601
+2002,Rabies,2
+2002,Malaria,11016
+2002,Syphillis,1070
+2002,Gonococol infection,964
+2002,Gonorrhoea,0
+2002,Chancroid,2
+2002,H.I.V,7445
+2002,A.I.D.S,1193
+2002,Leptospirosis,0
+2002,Hand Foot Mouth Diseases (HFMD),0
+2002,Typhus,17
+2002,Diphtheria,7
+2003,Cholera,135
+2003,Typhoid,785
+2003,Dysentry,310
+2003,Food poisoning,6624
+2003,Tuberculosis,15853
+2003,Leprosy,219
+2003,Pertusis,0
+2003,Whooping cough,27
+2003,Tetanus Neonatorum,0
+2003,Other Tetanus,16
+2003,Viral encephalitis,71
+2003,Measles,710
+2003,Dengue fever,14761
+2003,Dengue  haemorrhagic fever,681
+2003,Hepatitis A,0
+2003,Hepatitis B,0
+2003,Hepatitis C,0
+2003,Viral hepatitis (all types),3608
+2003,Rabies,0
+2003,Malaria,6331
+2003,Syphillis,1069
+2003,Gonococol infection,824
+2003,Gonorrhoea,0
+2003,Chancroid,1
+2003,H.I.V,6756
+2003,A.I.D.S,1076
+2003,Leptospirosis,0
+2003,Hand Foot Mouth Diseases (HFMD),0
+2003,Typhus,30
+2003,Diphtheria,11
+2004,Cholera,89
+2004,Typhoid,484
+2004,Dysentry,356
+2004,Food poisoning,5957
+2004,Tuberculosis,15429
+2004,Leprosy,244
+2004,Pertusis,0
+2004,Whooping cough,42
+2004,Tetanus Neonatorum,0
+2004,Other Tetanus,33
+2004,Viral encephalitis,85
+2004,Measles,5731
+2004,Dengue fever,12755
+2004,Dengue  haemorrhagic fever,675
+2004,Hepatitis A,0
+2004,Hepatitis B,0
+2004,Hepatitis C,0
+2004,Viral hepatitis (all types),2928
+2004,Rabies,0
+2004,Malaria,6154
+2004,Syphillis,963
+2004,Gonococol infection,766
+2004,Gonorrhoea,0
+2004,Chancroid,0
+2004,H.I.V,6427
+2004,A.I.D.S,1107
+2004,Leptospirosis,0
+2004,Hand Foot Mouth Diseases (HFMD),0
+2004,Typhus,22
+2004,Diphtheria,4
+2005,Cholera,386
+2005,Typhoid,1072
+2005,Dysentry,141
+2005,Food poisoning,4641
+2005,Tuberculosis,15991
+2005,Leprosy,262
+2005,Pertusis,0
+2005,Whooping cough,8
+2005,Tetanus Neonatorum,0
+2005,Other Tetanus,33
+2005,Viral encephalitis,32
+2005,Measles,1407
+2005,Dengue fever,15862
+2005,Dengue  haemorrhagic fever,999
+2005,Hepatitis A,0
+2005,Hepatitis B,0
+2005,Hepatitis C,0
+2005,Viral hepatitis (all types),2552
+2005,Rabies,0
+2005,Malaria,5569
+2005,Syphillis,900
+2005,Gonococol infection,537
+2005,Gonorrhoea,0
+2005,Chancroid,2
+2005,H.I.V,6120
+2005,A.I.D.S,1221
+2005,Leptospirosis,0
+2005,Hand Foot Mouth Diseases (HFMD),0
+2005,Typhus,20
+2005,Diphtheria,3
+2006,Cholera,237
+2006,Typhoid,204
+2006,Dysentry,105
+2006,Food poisoning,6938
+2006,Tuberculosis,16665
+2006,Leprosy,237
+2006,Pertusis,0
+2006,Whooping cough,6
+2006,Tetanus Neonatorum,0
+2006,Other Tetanus,28
+2006,Viral encephalitis,25
+2006,Measles,604
+2006,Dengue fever,17147
+2006,Dengue  haemorrhagic fever,1093
+2006,Hepatitis A,0
+2006,Hepatitis B,0
+2006,Hepatitis C,0
+2006,Viral hepatitis (all types),2496
+2006,Rabies,0
+2006,Malaria,5294
+2006,Syphillis,814
+2006,Gonococol infection,506
+2006,Gonorrhoea,0
+2006,Chancroid,0
+2006,H.I.V,5830
+2006,A.I.D.S,1842
+2006,Leptospirosis,0
+2006,Hand Foot Mouth Diseases (HFMD),5142
+2006,Typhus,16
+2006,Diphtheria,0
+2007,Cholera,133
+2007,Typhoid,325
+2007,Dysentry,146
+2007,Food poisoning,14455
+2007,Tuberculosis,16918
+2007,Leprosy,203
+2007,Pertusis,0
+2007,Whooping cough,15
+2007,Tetanus Neonatorum,0
+2007,Other Tetanus,36
+2007,Viral encephalitis,30
+2007,Measles,1206
+2007,Dengue fever,23310
+2007,Dengue  haemorrhagic fever,1324
+2007,Hepatitis A,0
+2007,Hepatitis B,0
+2007,Hepatitis C,0
+2007,Viral hepatitis (all types),2610
+2007,Rabies,0
+2007,Malaria,5456
+2007,Syphillis,867
+2007,Gonococol infection,652
+2007,Gonorrhoea,0
+2007,Chancroid,1
+2007,H.I.V,4577
+2007,A.I.D.S,1132
+2007,Leptospirosis,0
+2007,Hand Foot Mouth Diseases (HFMD),12558
+2007,Typhus,9
+2007,Diphtheria,2
+2008,Cholera,93
+2008,Typhoid,201
+2008,Dysentry,92
+2008,Food poisoning,17322
+2008,Tuberculosis,17496
+2008,Leprosy,234
+2008,Pertusis,0
+2008,Whooping cough,11
+2008,Tetanus Neonatorum,0
+2008,Other Tetanus,29
+2008,Viral encephalitis,20
+2008,Measles,334
+2008,Dengue fever,46517
+2008,Dengue  haemorrhagic fever,2818
+2008,Hepatitis A,0
+2008,Hepatitis B,0
+2008,Hepatitis C,0
+2008,Viral hepatitis (all types),1855
+2008,Rabies,0
+2008,Malaria,7390
+2008,Syphillis,877
+2008,Gonococol infection,789
+2008,Gonorrhoea,0
+2008,Chancroid,0
+2008,H.I.V,3692
+2008,A.I.D.S,941
+2008,Leptospirosis,0
+2008,Hand Foot Mouth Diseases (HFMD),15564
+2008,Typhus,13
+2008,Diphtheria,4
+2009,Cholera,276
+2009,Typhoid,303
+2009,Dysentry,154
+2009,Food poisoning,10238
+2009,Tuberculosis,18102
+2009,Leprosy,187
+2009,Pertusis,0
+2009,Whooping cough,39
+2009,Tetanus Neonatorum,0
+2009,Other Tetanus,14
+2009,Viral encephalitis,49
+2009,Measles,57
+2009,Dengue fever,38749
+2009,Dengue  haemorrhagic fever,2737
+2009,Hepatitis A,0
+2009,Hepatitis B,0
+2009,Hepatitis C,0
+2009,Viral hepatitis (all types),1696
+2009,Rabies,0
+2009,Malaria,7010
+2009,Syphillis,886
+2009,Gonococol infection,912
+2009,Gonorrhoea,0
+2009,Chancroid,3
+2009,H.I.V,3080
+2009,A.I.D.S,741
+2009,Leptospirosis,0
+2009,Hand Foot Mouth Diseases (HFMD),17154
+2009,Typhus,11
+2009,Diphtheria,0
+2010,Cholera,443
+2010,Typhoid,210
+2010,Dysentry,104
+2010,Food poisoning,12519
+2010,Tuberculosis,19337
+2010,Leprosy,194
+2010,Pertusis,0
+2010,Whooping cough,34
+2010,Tetanus Neonatorum,0
+2010,Other Tetanus,25
+2010,Viral encephalitis,58
+2010,Measles,73
+2010,Dengue fever,42140
+2010,Dengue  haemorrhagic fever,4031
+2010,Hepatitis A,0
+2010,Hepatitis B,0
+2010,Hepatitis C,0
+2010,Viral hepatitis (all types),1415
+2010,Rabies,0
+2010,Malaria,6650
+2010,Syphillis,847
+2010,Gonococol infection,1181
+2010,Gonorrhoea,0
+2010,Chancroid,0
+2010,H.I.V,3652
+2010,A.I.D.S,1035
+2010,Leptospirosis,0
+2010,Hand Foot Mouth Diseases (HFMD),13394
+2010,Typhus,6
+2010,Diphtheria,3
+2011,Cholera,586
+2011,Typhoid,242
+2011,Dysentry,44
+2011,Food poisoning,16292
+2011,Tuberculosis,20666
+2011,Leprosy,219
+2011,Pertusis,0
+2011,Whooping cough,248
+2011,Tetanus Neonatorum,3
+2011,Other Tetanus,8
+2011,Viral encephalitis,13
+2011,Measles,1569
+2011,Dengue fever,18466
+2011,Dengue  haemorrhagic fever,1418
+2011,Hepatitis A,0
+2011,Hepatitis B,0
+2011,Hepatitis C,0
+2011,Viral hepatitis (all types),2864
+2011,Rabies,0
+2011,Malaria,5306
+2011,Syphillis,1001
+2011,Gonococol infection,0
+2011,Gonorrhoea,1365
+2011,Chancroid,0
+2011,H.I.V,3479
+2011,A.I.D.S,1334
+2011,Leptospirosis,2268
+2011,Hand Foot Mouth Diseases (HFMD),7002
+2011,Typhus,13
+2011,Diphtheria,0
+2012,Cholera,282
+2012,Typhoid,218
+2012,Dysentry,86
+2012,Food poisoning,13182
+2012,Tuberculosis,22710
+2012,Leprosy,325
+2012,Pertusis,0
+2012,Whooping cough,224
+2012,Tetanus Neonatorum,9
+2012,Other Tetanus,24
+2012,Viral encephalitis,23
+2012,Measles,1876
+2012,Dengue fever,21181
+2012,Dengue  haemorrhagic fever,719
+2012,Hepatitis A,0
+2012,Hepatitis B,0
+2012,Hepatitis C,0
+2012,Viral hepatitis (all types),4912
+2012,Rabies,0
+2012,Malaria,4725
+2012,Syphillis,1672
+2012,Gonococol infection,0
+2012,Gonorrhoea,1492
+2012,Chancroid,0
+2012,H.I.V,3438
+2012,A.I.D.S,1361
+2012,Leptospirosis,3665
+2012,Hand Foot Mouth Diseases (HFMD),34519
+2012,Typhus,8
+2012,Diphtheria,0
+2013,Cholera,171
+2013,Typhoid,218
+2013,Dysentry,83
+2013,Food poisoning,14202
+2013,Tuberculosis,23262
+2013,Leprosy,306
+2013,Pertusis,0
+2013,Whooping cough,222
+2013,Tetanus Neonatorum,6
+2013,Other Tetanus,26
+2013,Viral encephalitis,16
+2013,Measles,195
+2013,Dengue fever,42572
+2013,Dengue  haemorrhagic fever,774
+2013,Hepatitis A,0
+2013,Hepatitis B,0
+2013,Hepatitis C,0
+2013,Viral hepatitis (all types),5724
+2013,Rabies,0
+2013,Malaria,3850
+2013,Syphillis,1617
+2013,Gonococol infection,0
+2013,Gonorrhoea,1419
+2013,Chancroid,0
+2013,H.I.V,3393
+2013,A.I.D.S,1188
+2013,Leptospirosis,4457
+2013,Hand Foot Mouth Diseases (HFMD),23331
+2013,Typhus,10
+2013,Diphtheria,4
+2014,Cholera,134
+2014,Typhoid,212
+2014,Dysentry,80
+2014,Food poisoning,17651
+2014,Tuberculosis,24711
+2014,Leprosy,308
+2014,Pertusis,0
+2014,Whooping cough,497
+2014,Tetanus Neonatorum,8
+2014,Other Tetanus,14
+2014,Viral encephalitis,48
+2014,Measles,221
+2014,Dengue fever,107597
+2014,Dengue  haemorrhagic fever,1101
+2014,Hepatitis A,0
+2014,Hepatitis B,0
+2014,Hepatitis C,0
+2014,Viral hepatitis (all types),6268
+2014,Rabies,0
+2014,Malaria,3923
+2014,Syphillis,1689
+2014,Gonococol infection,0
+2014,Gonorrhoea,1769
+2014,Chancroid,1
+2014,H.I.V,3517
+2014,A.I.D.S,1149
+2014,Leptospirosis,7806
+2014,Hand Foot Mouth Diseases (HFMD),31322
+2014,Typhus,2
+2014,Diphtheria,2
+2015,Cholera,244
+2015,Typhoid,434
+2015,Dysentry,125
+2015,Food poisoning,14433
+2015,Tuberculosis,24220
+2015,Leprosy,210
+2015,Pertusis,939
+2015,Whooping cough,0
+2015,Tetanus Neonatorum,16
+2015,Other Tetanus,20
+2015,Viral encephalitis,37
+2015,Measles,1318
+2015,Dengue fever,119796
+2015,Dengue  haemorrhagic fever,1040
+2015,Hepatitis A,110
+2015,Hepatitis B,3855
+2015,Hepatitis C,2108
+2015,Other specified viral hepatits,45
+2015,Viral hepatitis (all types),0
+2015,Rabies,0
+2015,Malaria,2311
+2015,Syphillis,1828
+2015,Gonococol infection,0
+2015,Gonorrhoea,2295
+2015,Chancroid,0
+2015,H.I.V,3330
+2015,A.I.D.S,1111
+2015,Leptospirosis,8291
+2015,Hand Foot Mouth Diseases (HFMD),22587
+2015,Typhus,3
+2015,Diphtheria,4
+2016,Cholera,170
+2016,Typhoid,181
+2016,Dysentry,126
+2016,Food poisoning,17480
+2016,Tuberculosis,25739
+2016,Leprosy,206
+2016,Pertusis,298
+2016,Whooping cough,0
+2016,Tetanus Neonatorum,6
+2016,Other Tetanus,17
+2016,Viral encephalitis,51
+2016,Measles,1587
+2016,Dengue fever,100722
+2016,Dengue  haemorrhagic fever,635
+2016,Hepatitis A,85
+2016,Hepatitis B,3890
+2016,Hepatitis C,2645
+2016,Other specified viral hepatits,26
+2016,Viral hepatitis (all types),0
+2016,Rabies,0
+2016,Malaria,2302
+2016,Syphillis,2058
+2016,Gonococol infection,0
+2016,Gonorrhoea,2886
+2016,Chancroid,0
+2016,H.I.V,3397
+2016,A.I.D.S,1222
+2016,Leptospirosis,5285
+2016,Hand Foot Mouth Diseases (HFMD),47008
+2016,Typhus,1
+2016,Diphtheria,31
+2017,Cholera,2
+2017,Typhoid,190
+2017,Dysentry,119
+2017,Food poisoning,13686
+2017,Tuberculosis,26168
+2017,Leprosy,214
+2017,Pertusis,353
+2017,Whooping cough,0
+2017,Tetanus Neonatorum,16
+2017,Other Tetanus,25
+2017,Viral encephalitis,30
+2017,Measles,1709
+2017,Dengue fever,83443
+2017,Dengue  haemorrhagic fever,406
+2017,Hepatitis A,153
+2017,Hepatitis B,4991
+2017,Hepatitis C,3089
+2017,Other specified viral hepatits,22
+2017,Viral hepatitis (all types),0
+2017,Rabies,0
+2017,Malaria,4114
+2017,Syphillis,2591
+2017,Gonococol infection,0
+2017,Gonorrhoea,3364
+2017,Chancroid,0
+2017,H.I.V,3347
+2017,A.I.D.S,1289
+2017,Leptospirosis,4365
+2017,Hand Foot Mouth Diseases (HFMD),29359
+2017,Typhus,20
+2017,Diphtheria,32
+2018,Cholera,165
+2018,Typhoid,173
+2018,Dysentry,164
+2018,Food poisoning,15023
+2018,Tuberculosis,25837
+2018,Leprosy,182
+2018,Pertusis,892
+2018,Whooping cough,0
+2018,Tetanus Neonatorum,26
+2018,Other Tetanus,31
+2018,Viral encephalitis,34
+2018,Measles,1958
+2018,Dengue fever,80210
+2018,Dengue  haemorrhagic fever,405
+2018,Hepatitis A,100
+2018,Hepatitis B,4773
+2018,Hepatitis C,2842
+2018,Other specified viral hepatits,7
+2018,Viral hepatitis (all types),0
+2018,Rabies,0
+2018,Malaria,4630
+2018,Syphillis,3077
+2018,Gonococol infection,0
+2018,Gonorrhoea,3130
+2018,Chancroid,0
+2018,H.I.V,78
+2018,A.I.D.S,100
+2018,Leptospirosis,181
+2018,Hand Foot Mouth Diseases (HFMD),3021
+2018,Typhus,0
+2018,Diphtheria,0
+2019,Cholera,81
+2019,Typhoid,180
+2019,Dysentry,219
+2019,Food poisoning,16583
+2019,Tuberculosis,26352
+2019,Leprosy,198
+2019,Pertusis,915
+2019,Tetanus Neonatorum,30
+2019,Other Tetanus,34
+2019,Viral encephalitis,42
+2019,Measles,1077
+2019,Dengue fever,129578
+2019,Dengue  haemorrhagic fever,523
+2019,Hepatitis A,94
+2019,Hepatitis B,5118
+2019,Hepatitis C,3438
+2019,Other specified viral hepatits,7
+2019,Viral hepatitis (all types),0
+2019,Rabies,0
+2019,Malaria,3941
+2019,Syphillis,3504
+2019,Gonococol infection,0
+2019,Gonorrhoea,3013
+2019,Chancroid,0
+2019,H.I.V,3564
+2019,A.I.D.S,1122
+2019,Leptospirosis,5217
+2019,Hand Foot Mouth Diseases (HFMD),52176
+2019,Typhus,20
+2019,Diphtheria,16
+2020,Cholera,115
+2020,Typhoid,64
+2020,Dysentry,157
+2020,Food poisoning,9425
+2020,Tuberculosis,23644
+2020,Leprosy,197
+2020,Pertusis,136
+2020,Tetanus Neonatorum,11
+2020,Other Tetanus,19
+2020,Viral encephalitis,9
+2020,Measles,477
+2020,Dengue fever,89960
+2020,Dengue  haemorrhagic fever,344
+2020,Hepatitis A,47
+2020,Hepatitis B,4117
+2020,Hepatitis C,3300
+2020,Other specified viral hepatits,6
+2020,Viral hepatitis (all types),0
+2020,Rabies,0
+2020,Malaria,2839
+2020,Syphillis,3462
+2020,Gonococol infection,0
+2020,Gonorrhoea,2339
+2020,Chancroid,0
+2020,H.I.V,3146
+2020,A.I.D.S,1038
+2020,Leptospirosis,2914
+2020,Hand Foot Mouth Diseases (HFMD),17235
+2020,Typhus,9
+2020,Diphtheria,12
+2021,Cholera,64
+2021,Typhoid,102
+2021,Dysentry,198
+2021,Food poisoning,6007
+2021,Tuberculosis,21727
+2021,Leprosy,166
+2021,Pertusis,11
+2021,Tetanus Neonatorum,16
+2021,Other Tetanus,17
+2021,Viral encephalitis,9
+2021,Measles,128
+2021,Dengue fever,26301
+2021,Dengue  haemorrhagic fever,64
+2021,Hepatitis A,24
+2021,Hepatitis B,3781
+2021,Hepatitis C,2804
+2021,Other specified viral hepatits,6
+2021,Viral hepatitis (all types),0
+2021,Rabies,0
+2021,Malaria,3688
+2021,Syphillis,3461
+2021,Gonococol infection,0
+2021,Gonorrhoea,1461
+2021,Chancroid,0
+2021,H.I.V,2760
+2021,A.I.D.S,878
+2021,Leptospirosis,1763
+2021,Hand Foot Mouth Diseases (HFMD),4238
+2021,Typhus,9
+2021,Diphtheria,5
