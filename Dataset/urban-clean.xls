@@ -1,0 +1,31 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+Malaysia,MYS,2023,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100.0
+Malaysia,MYS,2022,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100.0
+Malaysia,MYS,2021,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100.0
+Malaysia,MYS,2022,Population density (people per sq. km of land area),EN.POP.DNST,105.601865773855
+Malaysia,MYS,2021,Population density (people per sq. km of land area),EN.POP.DNST,104.344541165728
+Malaysia,MYS,2024,Population in largest city,EN.URB.LCTY,8815630.0
+Malaysia,MYS,2023,Population in largest city,EN.URB.LCTY,8621724.0
+Malaysia,MYS,2022,Population in largest city,EN.URB.LCTY,8419566.0
+Malaysia,MYS,2021,Population in largest city,EN.URB.LCTY,8210746.0
+Malaysia,MYS,2024,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,31.3032443360889
+Malaysia,MYS,2023,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,31.1816227816424
+Malaysia,MYS,2022,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,31.0264540687341
+Malaysia,MYS,2021,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,30.825685772588
+Malaysia,MYS,2024,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,8815630.0
+Malaysia,MYS,2023,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,8621724.0
+Malaysia,MYS,2022,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,8419566.0
+Malaysia,MYS,2021,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,8210746.0
+Malaysia,MYS,2024,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.7924829051665
+Malaysia,MYS,2023,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.54492642521
+Malaysia,MYS,2022,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.2670308791981
+Malaysia,MYS,2021,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,23.9503250633073
+Malaysia,MYS,2023,Urban population growth (annual %),SP.URB.GROW,1.87380714644276
+Malaysia,MYS,2022,Urban population growth (annual %),SP.URB.GROW,1.8622597297284
+Malaysia,MYS,2021,Urban population growth (annual %),SP.URB.GROW,1.84477268416162
+Malaysia,MYS,2023,Urban population,SP.URB.TOTL,27650017.0
+Malaysia,MYS,2022,Urban population,SP.URB.TOTL,27136733.0
+Malaysia,MYS,2021,Urban population,SP.URB.TOTL,26636053.0
+Malaysia,MYS,2023,Urban population (% of total population),SP.URB.TOTL.IN.ZS,78.716
+Malaysia,MYS,2022,Urban population (% of total population),SP.URB.TOTL.IN.ZS,78.214
+Malaysia,MYS,2021,Urban population (% of total population),SP.URB.TOTL.IN.ZS,77.696

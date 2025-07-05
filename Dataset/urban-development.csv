@@ -1,0 +1,614 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Malaysia,MYS,2015,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,1730.753545104
+Malaysia,MYS,2000,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,1355.586894293
+Malaysia,MYS,1990,Urban land area where elevation is below 5 meters (sq. km),AG.LND.EL5M.UR.K2,990.960314949
+Malaysia,MYS,2015,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.52508304753466
+Malaysia,MYS,2000,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.411263463633027
+Malaysia,MYS,1990,Urban land area where elevation is below 5 meters (% of total land area),AG.LND.EL5M.UR.ZS,0.30064156946694
+Malaysia,MYS,2015,Urban land area (sq. km),AG.LND.TOTL.UR.K2,11417.635397424
+Malaysia,MYS,2000,Urban land area (sq. km),AG.LND.TOTL.UR.K2,9469.324429869
+Malaysia,MYS,1990,Urban land area (sq. km),AG.LND.TOTL.UR.K2,7531.974293058
+Malaysia,MYS,2023,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Malaysia,MYS,2022,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Malaysia,MYS,2021,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Malaysia,MYS,2020,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Malaysia,MYS,2019,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Malaysia,MYS,2018,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Malaysia,MYS,2017,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Malaysia,MYS,2016,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Malaysia,MYS,2015,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Malaysia,MYS,2014,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,100
+Malaysia,MYS,2013,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.9
+Malaysia,MYS,2012,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.9
+Malaysia,MYS,2011,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.8
+Malaysia,MYS,2010,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.6
+Malaysia,MYS,2009,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.9
+Malaysia,MYS,2008,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.4
+Malaysia,MYS,2007,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.3
+Malaysia,MYS,2006,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.3
+Malaysia,MYS,2005,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.2
+Malaysia,MYS,2004,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.2
+Malaysia,MYS,2003,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.2
+Malaysia,MYS,2002,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.2
+Malaysia,MYS,2001,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.2
+Malaysia,MYS,2000,"Access to electricity, urban (% of urban population)",EG.ELC.ACCS.UR.ZS,99.2
+Malaysia,MYS,2020,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,16.1938532237922
+Malaysia,MYS,2019,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,17.8197510834605
+Malaysia,MYS,2018,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,16.6541753286852
+Malaysia,MYS,2017,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,14.9450075810201
+Malaysia,MYS,2016,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,16.3864419259472
+Malaysia,MYS,2015,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,16.9297330913892
+Malaysia,MYS,2014,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,17.1052502297433
+Malaysia,MYS,2013,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,18.7954198873143
+Malaysia,MYS,2012,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,17.9101382186238
+Malaysia,MYS,2011,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,16.5543727413676
+Malaysia,MYS,2010,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,17.5673365579308
+Malaysia,MYS,2009,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,18.6838844595312
+Malaysia,MYS,2008,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,19.9427014967672
+Malaysia,MYS,2007,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,21.1584955616188
+Malaysia,MYS,2006,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,22.1459745460658
+Malaysia,MYS,2005,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,22.7198463420882
+Malaysia,MYS,2004,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,22.9605064623849
+Malaysia,MYS,2003,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,23.1072146751735
+Malaysia,MYS,2002,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,23.2129752557118
+Malaysia,MYS,2001,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,23.3307924792576
+Malaysia,MYS,2000,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,23.5136706210687
+Malaysia,MYS,1999,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,23.7755127809882
+Malaysia,MYS,1998,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,24.0981600184721
+Malaysia,MYS,1997,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,24.4865235481979
+Malaysia,MYS,1996,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,24.9455145848429
+Malaysia,MYS,1995,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,25.4800443430846
+Malaysia,MYS,1994,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,26.217090418451
+Malaysia,MYS,1993,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,27.2443774244997
+Malaysia,MYS,1992,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,28.5079371029528
+Malaysia,MYS,1991,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,29.9538011955323
+Malaysia,MYS,1990,"PM2.5 air pollution, mean annual exposure (micrograms per cubic meter)",EN.ATM.PM25.MC.M3,31.5280014439601
+Malaysia,MYS,2017,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,90.537343806725
+Malaysia,MYS,2016,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,90.4198926637437
+Malaysia,MYS,2015,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,93.5081780350891
+Malaysia,MYS,2014,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,92.0061005865964
+Malaysia,MYS,2013,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,94.0245854882111
+Malaysia,MYS,2012,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,98.1690101298309
+Malaysia,MYS,2011,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,97.4765309879375
+Malaysia,MYS,2010,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,96.9973111624753
+Malaysia,MYS,2005,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,97.879940719733
+Malaysia,MYS,2000,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,95.456690230932
+Malaysia,MYS,1995,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,95.1730368096553
+Malaysia,MYS,1990,"PM2.5 air pollution, population exposed to levels exceeding WHO guideline value (% of total)",EN.ATM.PM25.MC.ZS,94.9569304676805
+Malaysia,MYS,2022,Population density (people per sq. km of land area),EN.POP.DNST,105.601865773855
+Malaysia,MYS,2021,Population density (people per sq. km of land area),EN.POP.DNST,104.344541165728
+Malaysia,MYS,2020,Population density (people per sq. km of land area),EN.POP.DNST,103.148860143053
+Malaysia,MYS,2019,Population density (people per sq. km of land area),EN.POP.DNST,101.782364936844
+Malaysia,MYS,2018,Population density (people per sq. km of land area),EN.POP.DNST,100.170345457312
+Malaysia,MYS,2017,Population density (people per sq. km of land area),EN.POP.DNST,98.4801217470705
+Malaysia,MYS,2016,Population density (people per sq. km of land area),EN.POP.DNST,96.7575254907929
+Malaysia,MYS,2015,Population density (people per sq. km of land area),EN.POP.DNST,95.0625414700959
+Malaysia,MYS,2014,Population density (people per sq. km of land area),EN.POP.DNST,93.4291188555775
+Malaysia,MYS,2013,Population density (people per sq. km of land area),EN.POP.DNST,91.8407091766854
+Malaysia,MYS,2012,Population density (people per sq. km of land area),EN.POP.DNST,90.2840693958302
+Malaysia,MYS,2011,Population density (people per sq. km of land area),EN.POP.DNST,88.7598204230711
+Malaysia,MYS,2010,Population density (people per sq. km of land area),EN.POP.DNST,87.2189194947497
+Malaysia,MYS,2009,Population density (people per sq. km of land area),EN.POP.DNST,85.6027332217319
+Malaysia,MYS,2008,Population density (people per sq. km of land area),EN.POP.DNST,83.9143478922538
+Malaysia,MYS,2007,Population density (people per sq. km of land area),EN.POP.DNST,82.1743691979912
+Malaysia,MYS,2006,Population density (people per sq. km of land area),EN.POP.DNST,80.4075757114594
+Malaysia,MYS,2005,Population density (people per sq. km of land area),EN.POP.DNST,78.6366489118856
+Malaysia,MYS,2004,Population density (people per sq. km of land area),EN.POP.DNST,76.8734500076092
+Malaysia,MYS,2003,Population density (people per sq. km of land area),EN.POP.DNST,75.1167310911581
+Malaysia,MYS,2002,Population density (people per sq. km of land area),EN.POP.DNST,73.3601491401613
+Malaysia,MYS,2001,Population density (people per sq. km of land area),EN.POP.DNST,71.6071769898037
+Malaysia,MYS,2000,Population density (people per sq. km of land area),EN.POP.DNST,69.9066078222493
+Malaysia,MYS,1999,Population density (people per sq. km of land area),EN.POP.DNST,68.2865043372394
+Malaysia,MYS,1998,Population density (people per sq. km of land area),EN.POP.DNST,66.6769532795617
+Malaysia,MYS,1997,Population density (people per sq. km of land area),EN.POP.DNST,65.0592542991934
+Malaysia,MYS,1996,Population density (people per sq. km of land area),EN.POP.DNST,63.4609252777355
+Malaysia,MYS,1995,Population density (people per sq. km of land area),EN.POP.DNST,61.8797717242429
+Malaysia,MYS,1994,Population density (people per sq. km of land area),EN.POP.DNST,60.3270308933191
+Malaysia,MYS,1993,Population density (people per sq. km of land area),EN.POP.DNST,58.8119433876122
+Malaysia,MYS,1992,Population density (people per sq. km of land area),EN.POP.DNST,57.3263491097245
+Malaysia,MYS,1991,Population density (people per sq. km of land area),EN.POP.DNST,55.8285314259626
+Malaysia,MYS,1990,Population density (people per sq. km of land area),EN.POP.DNST,54.2784081570537
+Malaysia,MYS,1989,Population density (people per sq. km of land area),EN.POP.DNST,52.7012539948257
+Malaysia,MYS,1988,Population density (people per sq. km of land area),EN.POP.DNST,51.1234363110638
+Malaysia,MYS,1987,Population density (people per sq. km of land area),EN.POP.DNST,49.5411261604018
+Malaysia,MYS,1986,Population density (people per sq. km of land area),EN.POP.DNST,47.9696210622432
+Malaysia,MYS,1985,Population density (people per sq. km of land area),EN.POP.DNST,46.4229432354284
+Malaysia,MYS,1984,Population density (people per sq. km of land area),EN.POP.DNST,44.9216527164815
+Malaysia,MYS,1983,Population density (people per sq. km of land area),EN.POP.DNST,43.4816831532491
+Malaysia,MYS,1982,Population density (people per sq. km of land area),EN.POP.DNST,42.10256581951
+Malaysia,MYS,1981,Population density (people per sq. km of land area),EN.POP.DNST,40.7828427940953
+Malaysia,MYS,1980,Population density (people per sq. km of land area),EN.POP.DNST,39.5171602495815
+Malaysia,MYS,1979,Population density (people per sq. km of land area),EN.POP.DNST,38.4351301171816
+Malaysia,MYS,1978,Population density (people per sq. km of land area),EN.POP.DNST,37.5229249733678
+Malaysia,MYS,1977,Population density (people per sq. km of land area),EN.POP.DNST,36.6328199665196
+Malaysia,MYS,1976,Population density (people per sq. km of land area),EN.POP.DNST,35.763497184599
+Malaysia,MYS,1975,Population density (people per sq. km of land area),EN.POP.DNST,34.9167980520469
+Malaysia,MYS,1974,Population density (people per sq. km of land area),EN.POP.DNST,34.0919373002587
+Malaysia,MYS,1973,Population density (people per sq. km of land area),EN.POP.DNST,33.2844955105768
+Malaysia,MYS,1972,Population density (people per sq. km of land area),EN.POP.DNST,32.496834576168
+Malaysia,MYS,1971,Population density (people per sq. km of land area),EN.POP.DNST,31.7256216709785
+Malaysia,MYS,1970,Population density (people per sq. km of land area),EN.POP.DNST,30.980983107594
+Malaysia,MYS,1969,Population density (people per sq. km of land area),EN.POP.DNST,30.2772698219449
+Malaysia,MYS,1968,Population density (people per sq. km of land area),EN.POP.DNST,29.6006117790291
+Malaysia,MYS,1967,Population density (people per sq. km of land area),EN.POP.DNST,28.9365362958454
+Malaysia,MYS,1966,Population density (people per sq. km of land area),EN.POP.DNST,28.2595891036372
+Malaysia,MYS,1965,Population density (people per sq. km of land area),EN.POP.DNST,27.5647785725156
+Malaysia,MYS,1964,Population density (people per sq. km of land area),EN.POP.DNST,26.8708141835337
+Malaysia,MYS,1963,Population density (people per sq. km of land area),EN.POP.DNST,26.1821944909451
+Malaysia,MYS,1962,Population density (people per sq. km of land area),EN.POP.DNST,25.506534774007
+Malaysia,MYS,1961,Population density (people per sq. km of land area),EN.POP.DNST,24.8499254299193
+Malaysia,MYS,2015,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,6.51856811135229
+Malaysia,MYS,2000,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,6.27113141336377
+Malaysia,MYS,1990,Urban population living in areas where elevation is below 5 meters (% of total population),EN.POP.EL5M.UR.ZS,5.70545677037032
+Malaysia,MYS,2024,Population in largest city,EN.URB.LCTY,8815630
+Malaysia,MYS,2023,Population in largest city,EN.URB.LCTY,8621724
+Malaysia,MYS,2022,Population in largest city,EN.URB.LCTY,8419566
+Malaysia,MYS,2021,Population in largest city,EN.URB.LCTY,8210746
+Malaysia,MYS,2020,Population in largest city,EN.URB.LCTY,7996830
+Malaysia,MYS,2019,Population in largest city,EN.URB.LCTY,7780301
+Malaysia,MYS,2018,Population in largest city,EN.URB.LCTY,7563912
+Malaysia,MYS,2017,Population in largest city,EN.URB.LCTY,7318545
+Malaysia,MYS,2016,Population in largest city,EN.URB.LCTY,7081137
+Malaysia,MYS,2015,Population in largest city,EN.URB.LCTY,6851431
+Malaysia,MYS,2014,Population in largest city,EN.URB.LCTY,6629176
+Malaysia,MYS,2013,Population in largest city,EN.URB.LCTY,6414131
+Malaysia,MYS,2012,Population in largest city,EN.URB.LCTY,6206062
+Malaysia,MYS,2011,Population in largest city,EN.URB.LCTY,6004742
+Malaysia,MYS,2010,Population in largest city,EN.URB.LCTY,5809953
+Malaysia,MYS,2009,Population in largest city,EN.URB.LCTY,5621482
+Malaysia,MYS,2008,Population in largest city,EN.URB.LCTY,5439373
+Malaysia,MYS,2007,Population in largest city,EN.URB.LCTY,5262684
+Malaysia,MYS,2006,Population in largest city,EN.URB.LCTY,5091967
+Malaysia,MYS,2005,Population in largest city,EN.URB.LCTY,4926787
+Malaysia,MYS,2004,Population in largest city,EN.URB.LCTY,4767182
+Malaysia,MYS,2003,Population in largest city,EN.URB.LCTY,4612329
+Malaysia,MYS,2002,Population in largest city,EN.URB.LCTY,4462708
+Malaysia,MYS,2001,Population in largest city,EN.URB.LCTY,4317941
+Malaysia,MYS,2000,Population in largest city,EN.URB.LCTY,4176469
+Malaysia,MYS,1999,Population in largest city,EN.URB.LCTY,3902215
+Malaysia,MYS,1998,Population in largest city,EN.URB.LCTY,3646311
+Malaysia,MYS,1997,Population in largest city,EN.URB.LCTY,3407189
+Malaysia,MYS,1996,Population in largest city,EN.URB.LCTY,3184046
+Malaysia,MYS,1995,Population in largest city,EN.URB.LCTY,2974961
+Malaysia,MYS,1994,Population in largest city,EN.URB.LCTY,2779865
+Malaysia,MYS,1993,Population in largest city,EN.URB.LCTY,2597564
+Malaysia,MYS,1992,Population in largest city,EN.URB.LCTY,2427445
+Malaysia,MYS,1991,Population in largest city,EN.URB.LCTY,2265540
+Malaysia,MYS,1990,Population in largest city,EN.URB.LCTY,2097661
+Malaysia,MYS,1989,Population in largest city,EN.URB.LCTY,1942223
+Malaysia,MYS,1988,Population in largest city,EN.URB.LCTY,1798493
+Malaysia,MYS,1987,Population in largest city,EN.URB.LCTY,1665047
+Malaysia,MYS,1986,Population in largest city,EN.URB.LCTY,1541666
+Malaysia,MYS,1985,Population in largest city,EN.URB.LCTY,1427427
+Malaysia,MYS,1984,Population in largest city,EN.URB.LCTY,1321794
+Malaysia,MYS,1983,Population in largest city,EN.URB.LCTY,1223718
+Malaysia,MYS,1982,Population in largest city,EN.URB.LCTY,1133039
+Malaysia,MYS,1981,Population in largest city,EN.URB.LCTY,1049080
+Malaysia,MYS,1980,Population in largest city,EN.URB.LCTY,971445
+Malaysia,MYS,1979,Population in largest city,EN.URB.LCTY,899365
+Malaysia,MYS,1978,Population in largest city,EN.URB.LCTY,832722
+Malaysia,MYS,1977,Population in largest city,EN.URB.LCTY,771016
+Malaysia,MYS,1976,Population in largest city,EN.URB.LCTY,713959
+Malaysia,MYS,1975,Population in largest city,EN.URB.LCTY,660984
+Malaysia,MYS,1974,Population in largest city,EN.URB.LCTY,612004
+Malaysia,MYS,1973,Population in largest city,EN.URB.LCTY,566654
+Malaysia,MYS,1972,Population in largest city,EN.URB.LCTY,524721
+Malaysia,MYS,1971,Population in largest city,EN.URB.LCTY,485787
+Malaysia,MYS,1970,Population in largest city,EN.URB.LCTY,451201
+Malaysia,MYS,1969,Population in largest city,EN.URB.LCTY,439064
+Malaysia,MYS,1968,Population in largest city,EN.URB.LCTY,427269
+Malaysia,MYS,1967,Population in largest city,EN.URB.LCTY,415760
+Malaysia,MYS,1966,Population in largest city,EN.URB.LCTY,404576
+Malaysia,MYS,1965,Population in largest city,EN.URB.LCTY,393692
+Malaysia,MYS,1964,Population in largest city,EN.URB.LCTY,383116
+Malaysia,MYS,1963,Population in largest city,EN.URB.LCTY,372796
+Malaysia,MYS,1962,Population in largest city,EN.URB.LCTY,362768
+Malaysia,MYS,1961,Population in largest city,EN.URB.LCTY,353010
+Malaysia,MYS,1960,Population in largest city,EN.URB.LCTY,343527
+Malaysia,MYS,2024,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,31.3032443360889
+Malaysia,MYS,2023,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,31.1816227816424
+Malaysia,MYS,2022,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,31.0264540687341
+Malaysia,MYS,2021,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,30.825685772588
+Malaysia,MYS,2020,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,30.5815673093878
+Malaysia,MYS,2019,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,30.3706398006982
+Malaysia,MYS,2018,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,30.2264093896692
+Malaysia,MYS,2017,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,29.9800752624915
+Malaysia,MYS,2016,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,29.7634313239238
+Malaysia,MYS,2015,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,29.5590461212912
+Malaysia,MYS,2014,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,29.3517326781224
+Malaysia,MYS,2013,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,29.1470711449844
+Malaysia,MYS,2012,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,28.9477900616783
+Malaysia,MYS,2011,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,28.7547003744018
+Malaysia,MYS,2010,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,28.5917480693278
+Malaysia,MYS,2009,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,28.5232244178864
+Malaysia,MYS,2008,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,28.5002184657329
+Malaysia,MYS,2007,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,28.5146064723645
+Malaysia,MYS,2006,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,28.5622718214759
+Malaysia,MYS,2005,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,28.6353317381247
+Malaysia,MYS,2004,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,28.7314918879877
+Malaysia,MYS,2003,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,28.8496924399307
+Malaysia,MYS,2002,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,28.9957986802312
+Malaysia,MYS,2001,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,29.1686391907571
+Malaysia,MYS,2000,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,29.3399264884143
+Malaysia,MYS,1999,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,28.63424663867
+Malaysia,MYS,1998,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,27.9761997014183
+Malaysia,MYS,1997,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,27.3707480692523
+Malaysia,MYS,1996,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,26.8060527596786
+Malaysia,MYS,1995,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,26.2766187845928
+Malaysia,MYS,1994,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,25.7807423155514
+Malaysia,MYS,1993,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,25.312271184168
+Malaysia,MYS,1992,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,24.8740514471595
+Malaysia,MYS,1991,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,24.4213440179543
+Malaysia,MYS,1990,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,23.6227102510414
+Malaysia,MYS,1989,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,22.8862303165078
+Malaysia,MYS,1988,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,22.1999474407873
+Malaysia,MYS,1987,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,21.5587172964138
+Malaysia,MYS,1986,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,20.9592355155192
+Malaysia,MYS,1985,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,20.3926329042637
+Malaysia,MYS,1984,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,19.8493884399388
+Malaysia,MYS,1983,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,19.3165206149562
+Malaysia,MYS,1982,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,18.7978172719284
+Malaysia,MYS,1981,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,18.290047573162
+Malaysia,MYS,1980,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,17.7961886704313
+Malaysia,MYS,1979,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,17.3042160706126
+Malaysia,MYS,1978,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,16.7729509623194
+Malaysia,MYS,1977,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,16.2627705448738
+Malaysia,MYS,1976,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.774543638782
+Malaysia,MYS,1975,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.3026632140306
+Malaysia,MYS,1974,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,14.8499209343936
+Malaysia,MYS,1973,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,14.416109089984
+Malaysia,MYS,1972,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,14.0000416222429
+Malaysia,MYS,1971,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,13.5990148428625
+Malaysia,MYS,1970,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,13.2502901431216
+Malaysia,MYS,1969,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,13.4858061846905
+Malaysia,MYS,1968,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,13.723752583227
+Malaysia,MYS,1967,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,13.9699512987122
+Malaysia,MYS,1966,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,14.2381838235346
+Malaysia,MYS,1965,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,14.5325120346927
+Malaysia,MYS,1964,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,14.8453144858799
+Malaysia,MYS,1963,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.1752520246438
+Malaysia,MYS,1962,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.5184974305381
+Malaysia,MYS,1961,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,15.8722094029161
+Malaysia,MYS,1960,Population in the largest city (% of urban population),EN.URB.LCTY.UR.ZS,16.2332854012567
+Malaysia,MYS,2024,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,8815630
+Malaysia,MYS,2023,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,8621724
+Malaysia,MYS,2022,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,8419566
+Malaysia,MYS,2021,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,8210746
+Malaysia,MYS,2020,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,7996830
+Malaysia,MYS,2019,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,7780301
+Malaysia,MYS,2018,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,7563912
+Malaysia,MYS,2017,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,7318545
+Malaysia,MYS,2016,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,7081137
+Malaysia,MYS,2015,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,6851431
+Malaysia,MYS,2014,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,6629176
+Malaysia,MYS,2013,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,6414131
+Malaysia,MYS,2012,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,6206062
+Malaysia,MYS,2011,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,6004742
+Malaysia,MYS,2010,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,5809953
+Malaysia,MYS,2009,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,5621482
+Malaysia,MYS,2008,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,5439373
+Malaysia,MYS,2007,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,5262684
+Malaysia,MYS,2006,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,5091967
+Malaysia,MYS,2005,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,4926787
+Malaysia,MYS,2004,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,4767182
+Malaysia,MYS,2003,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,4612329
+Malaysia,MYS,2002,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,4462708
+Malaysia,MYS,2001,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,4317941
+Malaysia,MYS,2000,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,4176469
+Malaysia,MYS,1999,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,3902215
+Malaysia,MYS,1998,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,3646311
+Malaysia,MYS,1997,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,3407189
+Malaysia,MYS,1996,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,3184046
+Malaysia,MYS,1995,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2974961
+Malaysia,MYS,1994,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2779865
+Malaysia,MYS,1993,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2597564
+Malaysia,MYS,1992,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2427445
+Malaysia,MYS,1991,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2265540
+Malaysia,MYS,1990,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,2097661
+Malaysia,MYS,1989,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1942223
+Malaysia,MYS,1988,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1798493
+Malaysia,MYS,1987,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1665047
+Malaysia,MYS,1986,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1541666
+Malaysia,MYS,1985,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1427427
+Malaysia,MYS,1984,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1321794
+Malaysia,MYS,1983,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1223718
+Malaysia,MYS,1982,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1133039
+Malaysia,MYS,1981,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,1049080
+Malaysia,MYS,1980,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,971445
+Malaysia,MYS,1979,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,899365
+Malaysia,MYS,1978,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,832722
+Malaysia,MYS,1977,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,771016
+Malaysia,MYS,1976,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,713959
+Malaysia,MYS,1975,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,660984
+Malaysia,MYS,1974,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,612004
+Malaysia,MYS,1973,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,566654
+Malaysia,MYS,1972,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,524721
+Malaysia,MYS,1971,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,485787
+Malaysia,MYS,1970,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,451201
+Malaysia,MYS,1969,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,439064
+Malaysia,MYS,1968,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,427269
+Malaysia,MYS,1967,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,415760
+Malaysia,MYS,1966,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,404576
+Malaysia,MYS,1965,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,393692
+Malaysia,MYS,1964,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,383116
+Malaysia,MYS,1963,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,372796
+Malaysia,MYS,1962,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,362768
+Malaysia,MYS,1961,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,353010
+Malaysia,MYS,1960,Population in urban agglomerations of more than 1 million,EN.URB.MCTY,343527
+Malaysia,MYS,2024,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.7924829051665
+Malaysia,MYS,2023,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.54492642521
+Malaysia,MYS,2022,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,24.2670308791981
+Malaysia,MYS,2021,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,23.9503250633073
+Malaysia,MYS,2020,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,23.5967373785164
+Malaysia,MYS,2019,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,23.2660356890768
+Malaysia,MYS,2018,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.9829527646514
+Malaysia,MYS,2017,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.6190676346915
+Malaysia,MYS,2016,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,22.2749517650143
+Malaysia,MYS,2015,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,21.9366545386039
+Malaysia,MYS,2014,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,21.5961246198504
+Malaysia,MYS,2013,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,21.2569585373496
+Malaysia,MYS,2012,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,20.9220151643651
+Malaysia,MYS,2011,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,20.5909538767162
+Malaysia,MYS,2010,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,20.2749805135272
+Malaysia,MYS,2009,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,19.9876493247342
+Malaysia,MYS,2008,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,19.7292758785899
+Malaysia,MYS,2007,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,19.4925852798106
+Malaysia,MYS,2006,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,19.2746784009287
+Malaysia,MYS,2005,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,19.0694126827566
+Malaysia,MYS,2004,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,18.874866511049
+Malaysia,MYS,2003,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,18.6888305573161
+Malaysia,MYS,2002,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,18.5155575503713
+Malaysia,MYS,2001,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,18.3534908536054
+Malaysia,MYS,2000,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,18.1840058279812
+Malaysia,MYS,1999,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,17.3930137869257
+Malaysia,MYS,1998,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,16.6447198171629
+Malaysia,MYS,1997,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.9399029287093
+Malaysia,MYS,1996,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,15.2711401156264
+Malaysia,MYS,1995,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.6329235060905
+Malaysia,MYS,1994,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,14.0252393916867
+Malaysia,MYS,1993,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,13.443094596066
+Malaysia,MYS,1992,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,12.8882408371159
+Malaysia,MYS,1991,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,12.3513394928838
+Malaysia,MYS,1990,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.7626921202068
+Malaysia,MYS,1989,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,11.2169987670226
+Malaysia,MYS,1988,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.7074792792948
+Malaysia,MYS,1987,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,10.2296117458923
+Malaysia,MYS,1986,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,9.78188460598668
+Malaysia,MYS,1985,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,9.35879133437161
+Malaysia,MYS,1984,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,8.95584520613816
+Malaysia,MYS,1983,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,8.56591044586809
+Malaysia,MYS,1982,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,8.19096035379104
+Malaysia,MYS,1981,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,7.82942089913855
+Malaysia,MYS,1980,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,7.48222937308308
+Malaysia,MYS,1979,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,7.12206864471595
+Malaysia,MYS,1978,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,6.75463493853947
+Malaysia,MYS,1977,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,6.40606834011413
+Malaysia,MYS,1976,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,6.0761966475681
+Malaysia,MYS,1975,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,5.76175867427179
+Malaysia,MYS,1974,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,5.46387943975246
+Malaysia,MYS,1973,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,5.1817267624765
+Malaysia,MYS,1972,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,4.91457440336954
+Malaysia,MYS,1971,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,4.66051892784474
+Malaysia,MYS,1970,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,4.43275151633758
+Malaysia,MYS,1969,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,4.41376947618606
+Malaysia,MYS,1968,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,4.39338462302529
+Malaysia,MYS,1967,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,4.37315315639397
+Malaysia,MYS,1966,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,4.35745390690565
+Malaysia,MYS,1965,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,4.34710980335692
+Malaysia,MYS,1964,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,4.33958293263812
+Malaysia,MYS,1963,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,4.33374873287639
+Malaysia,MYS,1962,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,4.32888489639592
+Malaysia,MYS,1961,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,4.32374872358102
+Malaysia,MYS,1960,Population in urban agglomerations of more than 1 million (% of total population),EN.URB.MCTY.TL.ZS,4.31772868369147
+Malaysia,MYS,2019,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,22.5
+Malaysia,MYS,2018,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,22.7
+Malaysia,MYS,2017,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,22.9
+Malaysia,MYS,2016,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,24
+Malaysia,MYS,2015,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,22.8
+Malaysia,MYS,2014,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,23
+Malaysia,MYS,2013,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,24.2
+Malaysia,MYS,2012,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,24.5
+Malaysia,MYS,2011,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,24.7
+Malaysia,MYS,2010,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,25.1
+Malaysia,MYS,2009,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,25.1
+Malaysia,MYS,2008,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,24.7
+Malaysia,MYS,2007,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,24.2
+Malaysia,MYS,2006,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,24.7
+Malaysia,MYS,2005,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,24.9
+Malaysia,MYS,2004,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,25.5
+Malaysia,MYS,2003,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,26.2
+Malaysia,MYS,2002,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,25.1
+Malaysia,MYS,2001,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,25.4
+Malaysia,MYS,2000,"Mortality caused by road traffic injury (per 100,000 population)",SH.STA.TRAF.P5,26.8
+Malaysia,MYS,2023,Urban population growth (annual %),SP.URB.GROW,1.87380714644276
+Malaysia,MYS,2022,Urban population growth (annual %),SP.URB.GROW,1.8622597297284
+Malaysia,MYS,2021,Urban population growth (annual %),SP.URB.GROW,1.84477268416162
+Malaysia,MYS,2020,Urban population growth (annual %),SP.URB.GROW,2.05290805180513
+Malaysia,MYS,2019,Urban population growth (annual %),SP.URB.GROW,2.34461893592848
+Malaysia,MYS,2018,Urban population growth (annual %),SP.URB.GROW,2.47939566982969
+Malaysia,MYS,2017,Urban population growth (annual %),SP.URB.GROW,2.57245497784584
+Malaysia,MYS,2016,Urban population growth (annual %),SP.URB.GROW,2.60862756050689
+Malaysia,MYS,2015,Urban population growth (annual %),SP.URB.GROW,2.59387758927641
+Malaysia,MYS,2014,Urban population growth (annual %),SP.URB.GROW,2.59798406660967
+Malaysia,MYS,2013,Urban population growth (annual %),SP.URB.GROW,2.6116401099768
+Malaysia,MYS,2012,Urban population growth (annual %),SP.URB.GROW,2.62844463383572
+Malaysia,MYS,2011,Urban population growth (annual %),SP.URB.GROW,2.72939110673723
+Malaysia,MYS,2010,Urban population growth (annual %),SP.URB.GROW,3.05776512573921
+Malaysia,MYS,2009,Urban population growth (annual %),SP.URB.GROW,3.21246387613014
+Malaysia,MYS,2008,Urban population growth (annual %),SP.URB.GROW,3.35273451845264
+Malaysia,MYS,2007,Urban population growth (annual %),SP.URB.GROW,3.46471789358582
+Malaysia,MYS,2006,Urban population growth (annual %),SP.URB.GROW,3.55317994265002
+Malaysia,MYS,2005,Urban population growth (annual %),SP.URB.GROW,3.62841654964843
+Malaysia,MYS,2004,Urban population growth (annual %),SP.URB.GROW,3.71279518469792
+Malaysia,MYS,2003,Urban population growth (annual %),SP.URB.GROW,3.80287930044913
+Malaysia,MYS,2002,Urban population growth (annual %),SP.URB.GROW,3.89202738079195
+Malaysia,MYS,2001,Urban population growth (annual %),SP.URB.GROW,3.9167650960983
+Malaysia,MYS,2000,Urban population growth (annual %),SP.URB.GROW,4.35759812582193
+Malaysia,MYS,1999,Urban population growth (annual %),SP.URB.GROW,4.45790707119485
+Malaysia,MYS,1998,Urban population growth (annual %),SP.URB.GROW,4.59490767664075
+Malaysia,MYS,1997,Urban population growth (annual %),SP.URB.GROW,4.68877529069088
+Malaysia,MYS,1996,Urban population growth (annual %),SP.URB.GROW,4.79735983617349
+Malaysia,MYS,1995,Urban population growth (annual %),SP.URB.GROW,4.87768314596459
+Malaysia,MYS,1994,Urban population growth (annual %),SP.URB.GROW,4.94897964584774
+Malaysia,MYS,1993,Urban population growth (annual %),SP.URB.GROW,5.02706632436401
+Malaysia,MYS,1992,Urban population growth (annual %),SP.URB.GROW,5.06584779745872
+Malaysia,MYS,1991,Urban population growth (annual %),SP.URB.GROW,4.3741269990517
+Malaysia,MYS,1990,Urban population growth (annual %),SP.URB.GROW,4.53166065049021
+Malaysia,MYS,1989,Urban population growth (annual %),SP.URB.GROW,4.64385891916936
+Malaysia,MYS,1988,Urban population growth (annual %),SP.URB.GROW,4.77860690785305
+Malaysia,MYS,1987,Urban population growth (annual %),SP.URB.GROW,4.87888370194738
+Malaysia,MYS,1986,Urban population growth (annual %),SP.URB.GROW,4.95844451679718
+Malaysia,MYS,1985,Urban population growth (annual %),SP.URB.GROW,4.98831122125567
+Malaysia,MYS,1984,Urban population growth (annual %),SP.URB.GROW,4.98836619750745
+Malaysia,MYS,1983,Urban population growth (annual %),SP.URB.GROW,4.9770402412939
+Malaysia,MYS,1982,Urban population growth (annual %),SP.URB.GROW,4.96061166368329
+Malaysia,MYS,1981,Urban population growth (annual %),SP.URB.GROW,4.95114661509432
+Malaysia,MYS,1980,Urban population growth (annual %),SP.URB.GROW,4.90615555673034
+Malaysia,MYS,1979,Urban population growth (annual %),SP.URB.GROW,4.58064575589169
+Malaysia,MYS,1978,Urban population growth (annual %),SP.URB.GROW,4.61016800726595
+Malaysia,MYS,1977,Urban population growth (annual %),SP.URB.GROW,4.64025866906685
+Malaysia,MYS,1976,Urban population growth (annual %),SP.URB.GROW,4.67253048258438
+Malaysia,MYS,1975,Urban population growth (annual %),SP.URB.GROW,4.69584767953293
+Malaysia,MYS,1974,Urban population growth (annual %),SP.URB.GROW,4.73416574247989
+Malaysia,MYS,1973,Urban population growth (annual %),SP.URB.GROW,4.75962299288106
+Malaysia,MYS,1972,Urban population growth (annual %),SP.URB.GROW,4.80334860007383
+Malaysia,MYS,1971,Urban population growth (annual %),SP.URB.GROW,4.7879437426171
+Malaysia,MYS,1970,Urban population growth (annual %),SP.URB.GROW,4.48860169960999
+Malaysia,MYS,1969,Urban population growth (annual %),SP.URB.GROW,4.47217550504969
+Malaysia,MYS,1968,Urban population growth (annual %),SP.URB.GROW,4.50862110891939
+Malaysia,MYS,1967,Urban population growth (annual %),SP.URB.GROW,4.62872358093348
+Malaysia,MYS,1966,Urban population growth (annual %),SP.URB.GROW,4.77317187748563
+Malaysia,MYS,1965,Urban population growth (annual %),SP.URB.GROW,4.85270062246125
+Malaysia,MYS,1964,Urban population growth (annual %),SP.URB.GROW,4.92881143140702
+Malaysia,MYS,1963,Urban population growth (annual %),SP.URB.GROW,4.96345919894791
+Malaysia,MYS,1962,Urban population growth (annual %),SP.URB.GROW,4.98041749983598
+Malaysia,MYS,1961,Urban population growth (annual %),SP.URB.GROW,4.97247189883285
+Malaysia,MYS,2023,Urban population,SP.URB.TOTL,27650017
+Malaysia,MYS,2022,Urban population,SP.URB.TOTL,27136733
+Malaysia,MYS,2021,Urban population,SP.URB.TOTL,26636053
+Malaysia,MYS,2020,Urban population,SP.URB.TOTL,26149183
+Malaysia,MYS,2019,Urban population,SP.URB.TOTL,25617837
+Malaysia,MYS,2018,Urban population,SP.URB.TOTL,25024183
+Malaysia,MYS,2017,Urban population,SP.URB.TOTL,24411363
+Malaysia,MYS,2016,Urban population,SP.URB.TOTL,23791400
+Malaysia,MYS,2015,Urban population,SP.URB.TOTL,23178796
+Malaysia,MYS,2014,Urban population,SP.URB.TOTL,22585297
+Malaysia,MYS,2013,Urban population,SP.URB.TOTL,22006091
+Malaysia,MYS,2012,Urban population,SP.URB.TOTL,21438811
+Malaysia,MYS,2011,Urban population,SP.URB.TOTL,20882645
+Malaysia,MYS,2010,Urban population,SP.URB.TOTL,20320384
+Malaysia,MYS,2009,Urban population,SP.URB.TOTL,19708438
+Malaysia,MYS,2008,Urban population,SP.URB.TOTL,19085373
+Malaysia,MYS,2007,Urban population,SP.URB.TOTL,18456099
+Malaysia,MYS,2006,Urban population,SP.URB.TOTL,17827598
+Malaysia,MYS,2005,Urban population,SP.URB.TOTL,17205273
+Malaysia,MYS,2004,Urban population,SP.URB.TOTL,16592184
+Malaysia,MYS,2003,Urban population,SP.URB.TOTL,15987446
+Malaysia,MYS,2002,Urban population,SP.URB.TOTL,15390878
+Malaysia,MYS,2001,Urban population,SP.URB.TOTL,14803368
+Malaysia,MYS,2000,Urban population,SP.URB.TOTL,14234763
+Malaysia,MYS,1999,Urban population,SP.URB.TOTL,13627790
+Malaysia,MYS,1998,Urban population,SP.URB.TOTL,13033618
+Malaysia,MYS,1997,Urban population,SP.URB.TOTL,12448286
+Malaysia,MYS,1996,Urban population,SP.URB.TOTL,11878086
+Malaysia,MYS,1995,Urban population,SP.URB.TOTL,11321704
+Malaysia,MYS,1994,Urban population,SP.URB.TOTL,10782719
+Malaysia,MYS,1993,Urban population,SP.URB.TOTL,10262074
+Malaysia,MYS,1992,Urban population,SP.URB.TOTL,9758945
+Malaysia,MYS,1991,Urban population,SP.URB.TOTL,9276885
+Malaysia,MYS,1990,Urban population,SP.URB.TOTL,8879849
+Malaysia,MYS,1989,Urban population,SP.URB.TOTL,8486426
+Malaysia,MYS,1988,Urban population,SP.URB.TOTL,8101339
+Malaysia,MYS,1987,Urban population,SP.URB.TOTL,7723312
+Malaysia,MYS,1986,Urban population,SP.URB.TOTL,7355545
+Malaysia,MYS,1985,Urban population,SP.URB.TOTL,6999719
+Malaysia,MYS,1984,Urban population,SP.URB.TOTL,6659117
+Malaysia,MYS,1983,Urban population,SP.URB.TOTL,6335085
+Malaysia,MYS,1982,Urban population,SP.URB.TOTL,6027503
+Malaysia,MYS,1981,Urban population,SP.URB.TOTL,5735797
+Malaysia,MYS,1980,Urban population,SP.URB.TOTL,5458725
+Malaysia,MYS,1979,Urban population,SP.URB.TOTL,5197375
+Malaysia,MYS,1978,Urban population,SP.URB.TOTL,4964672
+Malaysia,MYS,1977,Urban population,SP.URB.TOTL,4740988
+Malaysia,MYS,1976,Urban population,SP.URB.TOTL,4526020
+Malaysia,MYS,1975,Urban population,SP.URB.TOTL,4319405
+Malaysia,MYS,1974,Urban population,SP.URB.TOTL,4121261
+Malaysia,MYS,1973,Urban population,SP.URB.TOTL,3930700
+Malaysia,MYS,1972,Urban population,SP.URB.TOTL,3747996
+Malaysia,MYS,1971,Urban population,SP.URB.TOTL,3572222
+Malaysia,MYS,1970,Urban population,SP.URB.TOTL,3405216
+Malaysia,MYS,1969,Urban population,SP.URB.TOTL,3255749
+Malaysia,MYS,1968,Urban population,SP.URB.TOTL,3113354
+Malaysia,MYS,1967,Urban population,SP.URB.TOTL,2976102
+Malaysia,MYS,1966,Urban population,SP.URB.TOTL,2841486
+Malaysia,MYS,1965,Urban population,SP.URB.TOTL,2709043
+Malaysia,MYS,1964,Urban population,SP.URB.TOTL,2580720
+Malaysia,MYS,1963,Urban population,SP.URB.TOTL,2456605
+Malaysia,MYS,1962,Urban population,SP.URB.TOTL,2337649
+Malaysia,MYS,1961,Urban population,SP.URB.TOTL,2224076
+Malaysia,MYS,1960,Urban population,SP.URB.TOTL,2116189
+Malaysia,MYS,2023,Urban population (% of total population),SP.URB.TOTL.IN.ZS,78.716
+Malaysia,MYS,2022,Urban population (% of total population),SP.URB.TOTL.IN.ZS,78.214
+Malaysia,MYS,2021,Urban population (% of total population),SP.URB.TOTL.IN.ZS,77.696
+Malaysia,MYS,2020,Urban population (% of total population),SP.URB.TOTL.IN.ZS,77.16
+Malaysia,MYS,2019,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.607
+Malaysia,MYS,2018,Urban population (% of total population),SP.URB.TOTL.IN.ZS,76.036
+Malaysia,MYS,2017,Urban population (% of total population),SP.URB.TOTL.IN.ZS,75.447
+Malaysia,MYS,2016,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.84
+Malaysia,MYS,2015,Urban population (% of total population),SP.URB.TOTL.IN.ZS,74.213
+Malaysia,MYS,2014,Urban population (% of total population),SP.URB.TOTL.IN.ZS,73.577
+Malaysia,MYS,2013,Urban population (% of total population),SP.URB.TOTL.IN.ZS,72.93
+Malaysia,MYS,2012,Urban population (% of total population),SP.URB.TOTL.IN.ZS,72.275
+Malaysia,MYS,2011,Urban population (% of total population),SP.URB.TOTL.IN.ZS,71.609
+Malaysia,MYS,2010,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.912
+Malaysia,MYS,2009,Urban population (% of total population),SP.URB.TOTL.IN.ZS,70.075
+Malaysia,MYS,2008,Urban population (% of total population),SP.URB.TOTL.IN.ZS,69.225
+Malaysia,MYS,2007,Urban population (% of total population),SP.URB.TOTL.IN.ZS,68.36
+Malaysia,MYS,2006,Urban population (% of total population),SP.URB.TOTL.IN.ZS,67.483
+Malaysia,MYS,2005,Urban population (% of total population),SP.URB.TOTL.IN.ZS,66.594
+Malaysia,MYS,2004,Urban population (% of total population),SP.URB.TOTL.IN.ZS,65.694
+Malaysia,MYS,2003,Urban population (% of total population),SP.URB.TOTL.IN.ZS,64.78
+Malaysia,MYS,2002,Urban population (% of total population),SP.URB.TOTL.IN.ZS,63.856
+Malaysia,MYS,2001,Urban population (% of total population),SP.URB.TOTL.IN.ZS,62.922
+Malaysia,MYS,2000,Urban population (% of total population),SP.URB.TOTL.IN.ZS,61.977
+Malaysia,MYS,1999,Urban population (% of total population),SP.URB.TOTL.IN.ZS,60.742
+Malaysia,MYS,1998,Urban population (% of total population),SP.URB.TOTL.IN.ZS,59.496
+Malaysia,MYS,1997,Urban population (% of total population),SP.URB.TOTL.IN.ZS,58.237
+Malaysia,MYS,1996,Urban population (% of total population),SP.URB.TOTL.IN.ZS,56.969
+Malaysia,MYS,1995,Urban population (% of total population),SP.URB.TOTL.IN.ZS,55.688
+Malaysia,MYS,1994,Urban population (% of total population),SP.URB.TOTL.IN.ZS,54.402
+Malaysia,MYS,1993,Urban population (% of total population),SP.URB.TOTL.IN.ZS,53.109
+Malaysia,MYS,1992,Urban population (% of total population),SP.URB.TOTL.IN.ZS,51.814
+Malaysia,MYS,1991,Urban population (% of total population),SP.URB.TOTL.IN.ZS,50.576
+Malaysia,MYS,1990,Urban population (% of total population),SP.URB.TOTL.IN.ZS,49.794
+Malaysia,MYS,1989,Urban population (% of total population),SP.URB.TOTL.IN.ZS,49.012
+Malaysia,MYS,1988,Urban population (% of total population),SP.URB.TOTL.IN.ZS,48.232
+Malaysia,MYS,1987,Urban population (% of total population),SP.URB.TOTL.IN.ZS,47.45
+Malaysia,MYS,1986,Urban population (% of total population),SP.URB.TOTL.IN.ZS,46.671
+Malaysia,MYS,1985,Urban population (% of total population),SP.URB.TOTL.IN.ZS,45.893
+Malaysia,MYS,1984,Urban population (% of total population),SP.URB.TOTL.IN.ZS,45.119
+Malaysia,MYS,1983,Urban population (% of total population),SP.URB.TOTL.IN.ZS,44.345
+Malaysia,MYS,1982,Urban population (% of total population),SP.URB.TOTL.IN.ZS,43.574
+Malaysia,MYS,1981,Urban population (% of total population),SP.URB.TOTL.IN.ZS,42.807
+Malaysia,MYS,1980,Urban population (% of total population),SP.URB.TOTL.IN.ZS,42.044
+Malaysia,MYS,1979,Urban population (% of total population),SP.URB.TOTL.IN.ZS,41.158
+Malaysia,MYS,1978,Urban population (% of total population),SP.URB.TOTL.IN.ZS,40.271
+Malaysia,MYS,1977,Urban population (% of total population),SP.URB.TOTL.IN.ZS,39.391
+Malaysia,MYS,1976,Urban population (% of total population),SP.URB.TOTL.IN.ZS,38.519
+Malaysia,MYS,1975,Urban population (% of total population),SP.URB.TOTL.IN.ZS,37.652
+Malaysia,MYS,1974,Urban population (% of total population),SP.URB.TOTL.IN.ZS,36.794
+Malaysia,MYS,1973,Urban population (% of total population),SP.URB.TOTL.IN.ZS,35.944
+Malaysia,MYS,1972,Urban population (% of total population),SP.URB.TOTL.IN.ZS,35.104
+Malaysia,MYS,1971,Urban population (% of total population),SP.URB.TOTL.IN.ZS,34.271
+Malaysia,MYS,1970,Urban population (% of total population),SP.URB.TOTL.IN.ZS,33.454
+Malaysia,MYS,1969,Urban population (% of total population),SP.URB.TOTL.IN.ZS,32.729
+Malaysia,MYS,1968,Urban population (% of total population),SP.URB.TOTL.IN.ZS,32.013
+Malaysia,MYS,1967,Urban population (% of total population),SP.URB.TOTL.IN.ZS,31.304
+Malaysia,MYS,1966,Urban population (% of total population),SP.URB.TOTL.IN.ZS,30.604
+Malaysia,MYS,1965,Urban population (% of total population),SP.URB.TOTL.IN.ZS,29.913
+Malaysia,MYS,1964,Urban population (% of total population),SP.URB.TOTL.IN.ZS,29.232
+Malaysia,MYS,1963,Urban population (% of total population),SP.URB.TOTL.IN.ZS,28.558
+Malaysia,MYS,1962,Urban population (% of total population),SP.URB.TOTL.IN.ZS,27.895
+Malaysia,MYS,1961,Urban population (% of total population),SP.URB.TOTL.IN.ZS,27.241
+Malaysia,MYS,1960,Urban population (% of total population),SP.URB.TOTL.IN.ZS,26.598
